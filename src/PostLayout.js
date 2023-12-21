@@ -3,7 +3,7 @@ import { Link, Outlet } from "react-router-dom";
 
 const PostLayout = () => {
   return (
-    <>
+    <main>
       <Link to="/postpage/1">Post 1</Link>
       <br></br>
       <Link to="/postpage/2">Post 2</Link>
@@ -12,7 +12,7 @@ const PostLayout = () => {
       <br></br>
       <Link to="/postpage/newpost">New post</Link>
       <Outlet />
-    </>
+    </main>
   );
 };
 

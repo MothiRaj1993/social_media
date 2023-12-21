@@ -44,7 +44,7 @@ body {
   background-color: #66d8f5;
   padding: 1rem;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -218,9 +218,8 @@ body {
   padding: 0.5rem;
   margin-right: 0.5rem;
   font-size: 1rem;
-  color: #ffffff;
+  color: #fff;
   cursor: pointer;
-  background-color: red;
 }
 
 .deleteButton {

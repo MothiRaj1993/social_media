@@ -1,10 +1,8 @@
-import React from "react";
-
 const About = () => {
   return (
     <main className="About">
       <h2>About</h2>
-      <p style={{ marginTop: "1rem" }}>Halaloooo</p>
+      <p style={{ marginTop: "1rem" }}>This is a social media app</p>
     </main>
   );
 };
