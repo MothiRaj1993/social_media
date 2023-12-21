@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "datetime": "December 11 2023 12:50:34 PM",
+      "body": "Made a video about Tesla Q1 result"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd post",
+      "datetime": "December 11 2023 12:50:45 PM",
+      "body": "Made a video about Tesla Q2 result"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd post",
+      "datetime": "December 11 2023 12:50:47 PM",
+      "body": "Made a video about Tesla Q3 result"
+    },
+    {
+      "id": 4,
+      "title": "My 5th post",
+      "datetime": "December 21, 2023 10:54:58 AM",
+      "body": "Making a video about Tesla Q4 results"
+    },
+    {
+      "id": 5,
+      "title": "My 6th post",
+      "datetime": "December 21, 2023 11:34:57 AM",
+      "body": "Testing"
+    },
+    {
+      "id": 6,
+      "title": "My 5th post",
+      "datetime": "December 21, 2023 12:13:22 PM",
+      "body": "Testing"
+    }
+  ]
+}
